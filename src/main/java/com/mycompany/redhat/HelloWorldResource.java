@@ -39,7 +39,7 @@ public class HelloWorldResource {
     @Produces(MediaType.APPLICATION_JSON)
     public String getJson() {
         //TODO return proper representation object
-        return "{\"Message\":\"Hello World4\"}";
+        return "{\"Message\":\"Hello World12\"}";
     }
 
     /**
